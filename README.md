@@ -54,3 +54,9 @@ Bạn sẽ vào vai một chú mèo lang thang trên một hòn đảo vô đị
 **Win**
 
 ![](Screenshot/image1.png)
+
+### **Cài bản test của game**
+
+1. Truy cập vào mục [**Release**](https://github.com/AliceFaul/Survive_in_Pixel_World_Unity/releases/tag/1.0.0) của repo này.
+2. Tải về file install mới nhất trong mục Release.
+3. Chạy file .exe để cài đặt và vào game.
